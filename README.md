@@ -1,4 +1,4 @@
-# AXOM-FB-HACK
+# SULTAN-FB-HACK
 #facebook hacking tool for termux or linux 2020
 #Only use token for login or Dont use real id
 
@@ -71,7 +71,7 @@ $ apt install git
 
 $ apt install python2
 
-$ git clone https://github.com/dAYOShACKER505/AXOM-FB-HACK
+$ git clone https://github.com/ks2472422/sultan.git
 
 $ cd AXOM-FB-HACK
 
